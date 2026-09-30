@@ -1,9 +1,20 @@
-# Lessons
+# HTML5 & CSS3 Learning Tool
 
-This folder stores the learning content for the project.
+This project is a beginner-friendly Python learning app for HTML5 and CSS3. It includes:
+- interactive lessons
+- code samples
+- a short quiz
+- example HTML/CSS files
 
-## Add lesson files here
-- html5_basics.md
-- css3_basics.md
-- layouts_and_responsiveness.md
-- advanced_features.md
+## Run
+```bash
+python app.py
+```
+
+## Menu options
+- Select a lesson number to read a concept overview.
+- Choose the quiz option to test yourself.
+- Exit the app anytime.
+
+## Learning flow
+The app starts with the foundations and advances into responsive layouts, transitions, and other modern CSS features.
